@@ -1,6 +1,6 @@
 ### Hallo, ich bin Felix👋
 
-Seit der Grundschule bin ich leidenschaftlicher Programmierer und habe mein Hobby zum Beruf gemacht. Durch
+Seit der Grundschule bin ich leidenschaftlicher Programmierer und habe mein Hobby zum Beruf gemacht. Durch
 die Konzeption und Entwicklung von IT-Lösungen automatisiere und optimiere ich Arbeitsabläufe. Meine tägliche
 Motivation ist es etwas neues zu lernen und daraus etwas
 nützliches zu erschaffen. Von der Bildverarbeitung über
