@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hallo, ich bin Felix👋
 
-<!--
-**felixalmesberger/felixalmesberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seit der Grundschule bin ich leidenschaftlicher Programmierer und habe mein Hobby zum Beruf gemacht. Durch
+die Konzeption und Entwicklung von IT-Lösungen automatisiere und optimiere ich Arbeitsabläufe. Meine tägliche
+Motivation ist es etwas neues zu lernen und daraus etwas
+nützliches zu erschaffen. Von der Bildverarbeitung über
+ERP Systeme bis hin zu Single-Page-Applications habe ich
+bereits viel gesehen und umgesetzt.
 
-Here are some ideas to get you started:
+Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meine aktuellen Projekte
+
+#### Git/Division
+
+Visualisiere deine GitHub Statistiken
+
+![gitdivision](https://gitdivision.art/img/felixalmesberger/2019/light/800.webp)
+
+[gitdivision.art](https://gitdivision.art)
