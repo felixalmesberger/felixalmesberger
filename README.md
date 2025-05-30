@@ -15,6 +15,6 @@ Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 
 Visualisiere deine GitHub Statistiken
 
-<img src="https://gitdivision.art/img/felixalmesberger/2019/light/800.webp" alt="loading..." loading="lazy" height="600px">
+<img src="[https://gitdivision.art/img/felixalmesberger/2019/light/800.webp](https://gitdivision.art/img/felixalmesberger/light.webp)" alt="loading..." loading="lazy" height="600px">
 
 [gitdivision.art](https://gitdivision.art)
