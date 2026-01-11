@@ -1,6 +1,8 @@
 Hallo Welt!
 -----------
 
+![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
+
 Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
 
 Gute Software muss **echte Probleme lösen** und dabei sowohl Entscheider als auch Anwender begeistern. Genauso wichtig wie **saubere technische Lösungen** sind das **tiefe Verständnis für die zugrunde liegenden Geschäftsprozesse** und die **enge Zusammenarbeit mit den Menschen**, die tagtäglich mit der Software arbeiten.
@@ -13,7 +15,6 @@ Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre 
 
 Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 
-![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
 ![klaus-banner](https://github.com/user-attachments/assets/56ca38bb-46cb-474f-b7b8-f4f8d0ea12b7)
 ![unif-banner](https://github.com/user-attachments/assets/e2fdd33d-b115-44c1-a0b8-ca7cb85aba0c)
 ![modernization-banner](https://github.com/user-attachments/assets/7fe6482b-4ff0-4bd2-b8ae-00a524abb8fd)
