@@ -2,6 +2,7 @@ Hallo Welt!
 -----------
 
 ![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
+![felix almesberger](https://infomatik.eu/img/portrait.webp)
 
 Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
 
@@ -21,4 +22,3 @@ Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 ![jgdpa-banner](https://github.com/user-attachments/assets/961d0d44-c145-4b3e-8387-f2da7d2c082d)
 ![cad-productivity-banner](https://github.com/user-attachments/assets/81ca5a19-892d-4e2a-9363-cfa8c9b39414)
 ![bi-smart-banner](https://github.com/user-attachments/assets/acbbf0b5-2917-4ae0-919d-7d85621a2bea)
-![crm@4x](https://github.com/user-attachments/assets/daa7d7e5-0efe-47f4-9113-78921670769c)
