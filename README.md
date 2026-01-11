@@ -10,3 +10,5 @@ Meine **mehr als zehnjährige** professionelle Erfahrung ermöglicht es mir, 
 Dabei gehe ich pragmatisch vor: Ich setze auf **neueste Technologien**, bringe aber **das Verständnis für gewachsene Software** mit und vielfältige Erfahrung. Ich habe bereits einiges gesehen: die Cloud, den Sharepoint und Microsoft Access 97.
 
 Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre bestehende Software.** Aufbauend auf einer **ausgiebigen Prozessanalyse** berate ich Sie zu den **besten Lösungen für Ihr Unternehmen**.
+
+Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
