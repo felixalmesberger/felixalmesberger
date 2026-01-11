@@ -1,8 +1,5 @@
 Hallo Welt!
 -----------
-
-<img alt="felix almesberger" src="https://infomatik.eu/img/portrait.webp" width="256" />
-
 Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
 
 Gute Software muss **echte Probleme lösen** und dabei sowohl Entscheider als auch Anwender begeistern. Genauso wichtig wie **saubere technische Lösungen** sind das **tiefe Verständnis für die zugrunde liegenden Geschäftsprozesse** und die **enge Zusammenarbeit mit den Menschen**, die tagtäglich mit der Software arbeiten.
