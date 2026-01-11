@@ -12,3 +12,5 @@ Dabei gehe ich pragmatisch vor: Ich setze auf **neueste Technologien**, bringe 
 Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre bestehende Software.** Aufbauend auf einer **ausgiebigen Prozessanalyse** berate ich Sie zu den **besten Lösungen für Ihr Unternehmen**.
 
 Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
+
+![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
