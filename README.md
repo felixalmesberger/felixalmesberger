@@ -1,8 +1,6 @@
 Hallo Welt!
 -----------
 
-![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
-
 <img alt="felix almesberger" src="https://infomatik.eu/img/portrait.webp" width="256" />
 
 Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
@@ -14,6 +12,10 @@ Meine **mehr als zehnjährige** professionelle Erfahrung ermöglicht es mir, 
 Dabei gehe ich pragmatisch vor: Ich setze auf **neueste Technologien**, bringe aber **das Verständnis für gewachsene Software** mit und vielfältige Erfahrung. Ich habe bereits einiges gesehen: die Cloud, den Sharepoint und Microsoft Access 97.
 
 Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre bestehende Software.** Aufbauend auf einer **ausgiebigen Prozessanalyse** berate ich Sie zu den **besten Lösungen für Ihr Unternehmen**.
+
+------------------------------------------------
+
+<img alt="felix almesberger" src="https://infomatik.eu/img/banners/intro-banner.webp" width="256" />
 
 Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 
