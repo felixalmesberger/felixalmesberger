@@ -1,20 +1,12 @@
-### Hallo, ich bin Felix👋
+Hallo Welt!
+-----------
 
-Seit der Grundschule bin ich leidenschaftlicher Programmierer und habe mein Hobby zum Beruf gemacht. Durch
-die Konzeption und Entwicklung von IT-Lösungen automatisiere und optimiere ich Arbeitsabläufe. Meine tägliche
-Motivation ist es etwas neues zu lernen und daraus etwas
-nützliches zu erschaffen. Von der Bildverarbeitung über
-ERP Systeme bis hin zu Single-Page-Applications habe ich
-bereits viel gesehen und umgesetzt.
+Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
 
-Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
+Gute Software muss **echte Probleme lösen** und dabei sowohl Entscheider als auch Anwender begeistern. Genauso wichtig wie **saubere technische Lösungen** sind das **tiefe Verständnis für die zugrunde liegenden Geschäftsprozesse** und die **enge Zusammenarbeit mit den Menschen**, die tagtäglich mit der Software arbeiten.
 
-### Meine aktuellen Projekte
+Meine **mehr als zehnjährige** professionelle Erfahrung ermöglicht es mir, **Ihr Unternehmen mit maßgeschneiderter Software nachhaltig voranzubringen.**
 
-#### Git/Division
+Dabei gehe ich pragmatisch vor: Ich setze auf **neueste Technologien**, bringe aber **das Verständnis für gewachsene Software** mit und vielfältige Erfahrung. Ich habe bereits einiges gesehen: die Cloud, den Sharepoint und Microsoft Access 97.
 
-Visualisiere deine GitHub Statistiken
-
-<img src="https://gitdivision.art/img/felixalmesberger/light.webp" alt="loading..." loading="lazy" height="600px">
-
-[gitdivision.art](https://gitdivision.art)
+Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre bestehende Software.** Aufbauend auf einer **ausgiebigen Prozessanalyse** berate ich Sie zu den **besten Lösungen für Ihr Unternehmen**.
