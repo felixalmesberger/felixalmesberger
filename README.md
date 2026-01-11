@@ -14,3 +14,9 @@ Ich entwickle **moderne Webanwendungen** in der Cloud, oder **erweitere Ihre 
 Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 
 ![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
+![klaus-banner](https://github.com/user-attachments/assets/56ca38bb-46cb-474f-b7b8-f4f8d0ea12b7)
+![unif-banner](https://github.com/user-attachments/assets/e2fdd33d-b115-44c1-a0b8-ca7cb85aba0c)
+![modernization-banner](https://github.com/user-attachments/assets/7fe6482b-4ff0-4bd2-b8ae-00a524abb8fd)
+![jgdpa-banner](https://github.com/user-attachments/assets/961d0d44-c145-4b3e-8387-f2da7d2c082d)
+![cad-productivity-banner](https://github.com/user-attachments/assets/81ca5a19-892d-4e2a-9363-cfa8c9b39414)
+![bi-smart-banner](https://github.com/user-attachments/assets/acbbf0b5-2917-4ae0-919d-7d85621a2bea)
