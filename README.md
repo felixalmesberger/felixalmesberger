@@ -2,7 +2,8 @@ Hallo Welt!
 -----------
 
 ![infomatik website](https://infomatik.eu/img/banners/intro-banner.webp)
-![felix almesberger](https://infomatik.eu/img/portrait.webp)
+
+<img alt="felix almesberger" src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://infomatik.eu/img/portrait.webp)" width="200" />
 
 Ich bin **Felix, der Kopf hinter [info/matik](https://infomatik.eu)** und ich weiß: Gute Software ist mehr als nur CleanCode!
 
