@@ -22,3 +22,7 @@ Mehr Informationen dazu unter: [infomatik.eu](https://infomatik.eu)
 ![jgdpa-banner](https://github.com/user-attachments/assets/961d0d44-c145-4b3e-8387-f2da7d2c082d)
 ![cad-productivity-banner](https://github.com/user-attachments/assets/81ca5a19-892d-4e2a-9363-cfa8c9b39414)
 ![bi-smart-banner](https://github.com/user-attachments/assets/acbbf0b5-2917-4ae0-919d-7d85621a2bea)
+
+------------------------------------------------
+
+![white](https://github.com/user-attachments/assets/d972f2a6-1cb0-43c0-b713-0c9acebb5d85)
